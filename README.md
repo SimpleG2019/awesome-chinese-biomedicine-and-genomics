@@ -12,7 +12,7 @@
 
 ## 🌐 Official Platform & Endpoints
 * **Web Portal**: [https://sinobiodata.com](https://sinobiodata.com)
-* **Complete Research Catalog**: [CATALOG.md](CATALOG.md) (400 Curated Publications)
+* **Complete Research Catalog**: [CATALOG.md](CATALOG.md) (1572 Curated Publications)
 * **XML Sitemap Feed**: [https://sinobiodata.com/articles-sitemap.xml](https://sinobiodata.com/articles-sitemap.xml)
 
 ---
