@@ -1,9 +1,9 @@
-# 📚 SinoBioData Curated Open Intelligence Catalog (4,983 Papers)
+# 📚 SinoBioData Curated Open Intelligence Catalog (5,082 Papers)
 
 > Verified, peer-reviewed authentic Chinese research breakthroughs in **Biomedicine, Cell Therapy, Genomics & Clinical Oncology**.
 > Maintained by [SinoBioData](https://sinobiodata.com) | Open Access & Machine-Readable.
 
-*Last Synchronized: 2026-10-11 13:17:27 UTC*
+*Last Synchronized: 2026-10-12 13:25:08 UTC*
 
 | # | Paper Title | DOI / Identifiers | Verified Reading Link |
 |---|---|---|---|
