@@ -1,9 +1,9 @@
-# 📚 SinoAgriTech Curated Open Intelligence Catalog (3,027 Papers)
+# 📚 SinoAgriTech Curated Open Intelligence Catalog (3,033 Papers)
 
 > Verified, peer-reviewed authentic Chinese research breakthroughs in **Smart Agriculture, Crop Genetics, CRISPR & Precision Farming**.
 > Maintained by [SinoAgriTech](https://sinoagritech.com) | Open Access & Machine-Readable.
 
-*Last Synchronized: 2026-11-07 13:32:08 UTC*
+*Last Synchronized: 2026-11-07 13:33:18 UTC*
 
 | # | Paper Title | DOI / Identifiers | Verified Reading Link |
 |---|---|---|---|
